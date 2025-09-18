@@ -1,0 +1,1 @@
+Télécharger le fichier ZIP et Dezipé le fichier puis installer panda avec la commande "pip install pandas". Après cela vous avez juste à executer le fichier et vous pouvez utiliser le logiciel !
